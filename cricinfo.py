@@ -1,4 +1,7 @@
 #!/usr/bin/env python
+'''
+	This script fetches live score from cricinfo
+'''
 import requests
 from bs4 import BeautifulSoup
 import pynotify
